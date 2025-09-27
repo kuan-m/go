@@ -1,1 +1,6 @@
 # go
+
+
+```bash
+go test
+```
