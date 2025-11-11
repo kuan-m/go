@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+// https://leetcode.com/problems/two-sum/description/
+
 func main() {
 
 	nums := []int{2, 7, 11, 15}

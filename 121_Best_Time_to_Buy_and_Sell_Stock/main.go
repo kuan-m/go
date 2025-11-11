@@ -2,6 +2,8 @@ package main
 
 import "fmt"
 
+// https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/
+
 func main() {
 
 	prices := []int{1, 2, 3, 5, 7, 10}

@@ -1,5 +1,7 @@
 package main
 
+// https://leetcode.com/problems/remove-element/description/
+
 func main() {
 	nums := []int{0, 1, 2, 2, 3, 0, 4, 2}
 	removeElement(nums, 2)
