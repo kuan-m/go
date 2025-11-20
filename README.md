@@ -8,5 +8,5 @@ go test
 
 ### run all tests
 ```bash
-go test ./... -v
+go test ./... -v -bench=.
 ```
