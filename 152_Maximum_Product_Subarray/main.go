@@ -2,9 +2,12 @@ package main
 
 import "fmt"
 
+// https://leetcode.com/problems/maximum-product-subarray/
+
+// Pattern: DP
+// Time: O(n) Memory: O(1)
+
 func main() {
-	// https://leetcode.com/problems/maximum-product-subarray/
-	// Time: O(n) Memory: O(1)
 	nums := []int{2, 3, -2, 4}
 
 	fmt.Println(maxProduct(nums))

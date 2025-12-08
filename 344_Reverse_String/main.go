@@ -6,6 +6,7 @@ import "fmt"
 
 // Pattern: Two Pointers
 // Time: O(n) Space: O(1)
+
 func main() {
 	s := []byte{'h', 'e', 'l', 'l', 'o'}
 
