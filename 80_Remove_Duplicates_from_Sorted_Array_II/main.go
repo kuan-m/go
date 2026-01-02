@@ -5,7 +5,8 @@ import "fmt"
 // https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/description/
 
 // Pattern: Two Pointers
-// Time: O(n) Space: O(1)
+// Time: O(n)
+// Space: O(1)
 
 func main() {
 
