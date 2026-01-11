@@ -14,4 +14,7 @@ func main() {
 	fmt.Println(*p)        // [0 7 5 6 10000]
 	s := data[1:4]         // get slice from array
 	fmt.Println(s)
+
+	data1 := []int{1, 2, 3}
+	data1 = append(data1, 5, 6, 7) // [1 2 3 4 5 6 7]
 }
